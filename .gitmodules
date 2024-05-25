@@ -1,0 +1,3 @@
+[submodule "CNN-Image-Classification/PlotNeuralNet"]
+	path = CNN-Image-Classification/PlotNeuralNet
+	url = https://github.com/HarisIqbal88/PlotNeuralNet.git
