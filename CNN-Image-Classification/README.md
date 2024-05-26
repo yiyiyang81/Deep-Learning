@@ -12,3 +12,4 @@ Referring to the project [cuda-convnet](https://code.google.com/archive/p/cuda-c
 
 
 ## Architecture
+![CNN Architecture](./figures/architecture.png)
