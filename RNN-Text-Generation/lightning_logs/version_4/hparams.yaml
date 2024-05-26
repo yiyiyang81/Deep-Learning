@@ -1,4 +1,0 @@
-embedding_dim: 128
-hidden_dim: 256
-layers: 2
-vocab_size: 62
